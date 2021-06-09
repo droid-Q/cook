@@ -421,7 +421,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 8135042726077CBE009F9964 /* Build configuration list for PBXProject "Cook" */;
+			buildConfigurationList = 8135042726077CBE009F9964 /* Build configuration list for PBXProject "cook" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -617,7 +617,7 @@
 				CODE_SIGN_ENTITLEMENTS = "";
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 9Y4562FZWB;
+				DEVELOPMENT_TEAM = FLGT9UJPXJ;
 				ENABLE_HARDENED_RUNTIME = YES;
 				HEADER_SEARCH_PATHS = "\"$(SRCROOT)/OpenSSL/macos/include\"";
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path";
@@ -639,7 +639,7 @@
 				CODE_SIGN_ENTITLEMENTS = "";
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 9Y4562FZWB;
+				DEVELOPMENT_TEAM = FLGT9UJPXJ;
 				ENABLE_HARDENED_RUNTIME = YES;
 				HEADER_SEARCH_PATHS = "\"$(SRCROOT)/OpenSSL/macos/include\"";
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path";
@@ -655,7 +655,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		8135042726077CBE009F9964 /* Build configuration list for PBXProject "Cook" */ = {
+		8135042726077CBE009F9964 /* Build configuration list for PBXProject "cook" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8135043126077CBE009F9964 /* Debug */,
